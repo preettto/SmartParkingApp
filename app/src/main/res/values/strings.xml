@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Parking App</string>
+    <string name="login">Login</string>
+    <string name="reserve_slot">Reserve Slot</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="view_slip">View Slip</string>
+    <string name="available">Available</string>
+    <string name="reserved">Reserved</string>
+    <string name="occupied">Occupied</string>
+    <string name="slot">Slot</string>
+    <string name="start_parking">Start Parking</string>
+    <string name="end_parking">End Parking</string>
+    <string name="charges">Charges</string>
+    <string name="map">Map</string>
+</resources>
