@@ -6,11 +6,13 @@ plugins {
 }
 
 android {
-    namespace = "com.yourdomain.smartparking"
+    // IMPORTANT: Namespace has been updated.
+    namespace = "com.preet.SmartPark"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.yourdomain.smartparking"
+        // IMPORTANT: ApplicationId now matches your Firebase project.
+        applicationId = "com.preet.SmartPark"
         minSdk = 21
         targetSdk = 35
         versionCode = 1

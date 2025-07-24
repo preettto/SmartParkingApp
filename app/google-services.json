@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "970668662484",
-    "project_id": "smartparkingapp-dcbf7",
-    "storage_bucket": "smartparkingapp-dcbf7.firebasestorage.app"
+    "project_number": "428254708068",
+    "project_id": "smartpark-41221",
+    "storage_bucket": "smartpark-41221.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:970668662484:android:5be7eeb2b2694b9a6da541",
+        "mobilesdk_app_id": "1:428254708068:android:e2b6b565f9bf9c7cea7a71",
         "android_client_info": {
-          "package_name": "com.yourdomain.smartparking"
+          "package_name": "com.preet.SmartPark"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCjFPjSVDAc70OKEdxUOncHfjrzzslS5kA"
+          "current_key": "AIzaSyDtyWg0wk3b8vq4AwSZzMh8MNc6ciRCL4w"
         }
       ],
       "services": {
